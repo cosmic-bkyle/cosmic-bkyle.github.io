@@ -1,0 +1,50 @@
+body {
+    background-color: #e3ded9;
+    font-family:  monospace, Courier;
+    color: #000000;
+    line-height: 1.5;
+  }
+.top-nav {
+    padding: 10px 20px;
+
+    
+    text-align: right; /* center the links */
+  }
+  .top-nav a {
+    padding: 10px 10px; /* horizontal padding */
+    text-decoration: underline;
+  }
+  .inline {
+    color: #30002e;
+    text-decoration: underline;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+
+  }
+  a:visited {
+    color: black;
+  }
+  .bio{
+    text-align: justify;
+    max-width: 600px;
+    font-size: large;
+    margin: 30px auto;
+    padding: 0 20px; /* optional: adds spacing inside the box */
+    line-height: 1.6; /* optional: improves readability */
+  }
+  .cubing-links, .cubing-links:visited{
+    line-height: 3;
+    color: rgb(0, 65, 0)
+  }
+  .skate-links, .skate-links:visited{
+    line-height: 3;
+    color: rgb(78, 0, 0)
+
+  }
+  .misc-links, .misc-links:visited{
+    line-height: 3;
+    color: rgb(0, 49, 66)
+  }
+  
