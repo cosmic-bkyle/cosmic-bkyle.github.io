@@ -47,4 +47,11 @@ body {
     line-height: 3;
     color: rgb(0, 49, 66)
   }
-  
+  .linkedimg{
+    display: block;            
+    margin: 120px auto;
+    max-width:100%;
+  }
+  .links-wrapper {
+    text-align: center;
+  }
