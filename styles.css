@@ -1,9 +1,21 @@
 body {
     background-color: #e3ded9;
-    font-family: Helvetica, sans-serif, Times, serif, Courier;
+    font-family:  sans-serif;
     color: #000000;
     line-height: 1.5;
+    font-size:large
   }
+  .big-header {
+    font-size: 2em;
+}
+
+.big-welcome {
+    font-size: 1em;
+}
+
+.centered {
+    text-align: center;
+}
 .top-nav {
     padding: 10px 20px;
 
@@ -29,7 +41,7 @@ body {
   .bio{
     text-align: justify;
     max-width: 600px;
-    font-size: large;
+    font-size:1.1em;
     margin: 30px auto;
     padding: 0 20px; /* optional: adds spacing inside the box */
     line-height: 1.6; /* optional: improves readability */
